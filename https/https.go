@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package https contains helpers for starting an HTTPS server.
-package https // import "golang.org/x/build/internal/https"
+package https // import "github.com/paladox/go-package/https"
 
 import (
 	"context"
